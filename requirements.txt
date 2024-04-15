@@ -106,4 +106,4 @@ Werkzeug==3.0.1
 xdg==5
 xkit==0.0.0
 zipp==1.0.0
-honcho==1.1.0
+honcho==1.0.0
